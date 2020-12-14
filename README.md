@@ -1,7 +1,7 @@
 # main
 My repository for HW ITEA
 
-HW_1 - if, else/n
+HW_1 - if, else\n
 HW_2 - cycles
 HW_3 - strings
 HW_4 - functions
