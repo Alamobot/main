@@ -18,7 +18,7 @@ for i in str:
     if i != ' ':
         anchor_count += 1
         anchor_str += i
-    elif i == ' ':
+    elif i == ' ':             # можно лучше - Например, "elif i == ' ':" - зачем? почем не просто else или elif anchor_count > count:
         if anchor_count > count:
             count = anchor_count
             new_str = anchor_str
